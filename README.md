@@ -1,7 +1,3 @@
-# Machine-Learning
-All ML codes are kept here
-For tutorial purpose
-
 # Downloading data
 
 You can download csv from [this site](https://skyserver.sdss.org/dr12/en/tools/search/sql.aspx).using this query.
@@ -35,5 +31,5 @@ This will merge all the `.csv` files and remove redundancies and create a file `
 
 - Run the `final.py` to view the interactive graph.
 
-    ![demo](/home/ams/MyProjects/Python Projects/Machine-Learning/demo.png)
+    ![demo](demo.png)
 
