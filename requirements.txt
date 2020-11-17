@@ -1,0 +1,5 @@
+pyqtgraph
+numpy
+astropy
+pandas
+scipy
